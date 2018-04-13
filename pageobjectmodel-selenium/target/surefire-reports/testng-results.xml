@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="112021" started-at="2018-04-12T12:39:27Z" finished-at="2018-04-12T12:41:19Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="112021" started-at="2018-04-12T12:39:27Z" finished-at="2018-04-12T12:41:19Z">
+      <class name="com.Capita.AutomationDemo.testscripts.TestLoginThroughDataProvider">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.Capita.AutomationDemo.testscripts.TestLoginThroughDataProvider@679b62af]" name="beforeMethod" is-config="true" duration-ms="18" started-at="2018-04-12T18:09:28Z" finished-at="2018-04-12T18:09:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Capita.AutomationDemo.testscripts.TestLoginThroughDataProvider.TestLoginWithDataProvider(java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.InterruptedException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.Capita.AutomationDemo.testscripts.TestLoginThroughDataProvider@679b62af]" name="setUP" is-config="true" duration-ms="8532" started-at="2018-04-12T18:09:28Z" finished-at="2018-04-12T18:09:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="TestLoginWithDataProvider(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Capita.AutomationDemo.testscripts.TestLoginThroughDataProvider@679b62af]" name="TestLoginWithDataProvider" duration-ms="9414" started-at="2018-04-12T18:09:37Z" data-provider="loginData" finished-at="2018-04-12T18:09:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC001]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[RobinCAP]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[79D209]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLoginWithDataProvider -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:com.Capita.AutomationDemo.testscripts.TestLoginThroughDataProvider@679b62af]" name="quitBrowser" is-config="true" duration-ms="5684" started-at="2018-04-12T18:09:46Z" finished-at="2018-04-12T18:09:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.Capita.AutomationDemo.testscripts.TestLoginThroughDataProvider@679b62af]" name="setUP" is-config="true" duration-ms="9101" started-at="2018-04-12T18:09:52Z" finished-at="2018-04-12T18:10:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.Capita.AutomationDemo.testscripts.TestLoginThroughDataProvider@679b62af]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-04-12T18:09:52Z" finished-at="2018-04-12T18:09:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Capita.AutomationDemo.testscripts.TestLoginThroughDataProvider.TestLoginWithDataProvider(java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.InterruptedException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TestLoginWithDataProvider(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Capita.AutomationDemo.testscripts.TestLoginThroughDataProvider@679b62af]" name="TestLoginWithDataProvider" duration-ms="12568" started-at="2018-04-12T18:10:01Z" data-provider="loginData" finished-at="2018-04-12T18:10:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC002]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[RobinCAP]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[79D209]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLoginWithDataProvider -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:com.Capita.AutomationDemo.testscripts.TestLoginThroughDataProvider@679b62af]" name="quitBrowser" is-config="true" duration-ms="5181" started-at="2018-04-12T18:10:13Z" finished-at="2018-04-12T18:10:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.Capita.AutomationDemo.testscripts.TestLoginThroughDataProvider@679b62af]" name="setUP" is-config="true" duration-ms="6481" started-at="2018-04-12T18:10:19Z" finished-at="2018-04-12T18:10:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.Capita.AutomationDemo.testscripts.TestLoginThroughDataProvider@679b62af]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-04-12T18:10:19Z" finished-at="2018-04-12T18:10:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Capita.AutomationDemo.testscripts.TestLoginThroughDataProvider.TestLoginWithDataProvider(java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.InterruptedException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TestLoginWithDataProvider(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Capita.AutomationDemo.testscripts.TestLoginThroughDataProvider@679b62af]" name="TestLoginWithDataProvider" duration-ms="8833" started-at="2018-04-12T18:10:25Z" data-provider="loginData" finished-at="2018-04-12T18:10:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC003]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[RobinCAP]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[79D209]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLoginWithDataProvider -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:com.Capita.AutomationDemo.testscripts.TestLoginThroughDataProvider@679b62af]" name="quitBrowser" is-config="true" duration-ms="5199" started-at="2018-04-12T18:10:34Z" finished-at="2018-04-12T18:10:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.Capita.AutomationDemo.testscripts.TestLoginThroughDataProvider@679b62af]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-04-12T18:10:39Z" finished-at="2018-04-12T18:10:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Capita.AutomationDemo.testscripts.TestLoginThroughDataProvider.TestLoginWithDataProvider(java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.InterruptedException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.Capita.AutomationDemo.testscripts.TestLoginThroughDataProvider@679b62af]" name="setUP" is-config="true" duration-ms="6697" started-at="2018-04-12T18:10:39Z" finished-at="2018-04-12T18:10:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="TestLoginWithDataProvider(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Capita.AutomationDemo.testscripts.TestLoginThroughDataProvider@679b62af]" name="TestLoginWithDataProvider" duration-ms="9209" started-at="2018-04-12T18:10:46Z" data-provider="loginData" finished-at="2018-04-12T18:10:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC004]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[RobinCAP]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[79D209]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLoginWithDataProvider -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:com.Capita.AutomationDemo.testscripts.TestLoginThroughDataProvider@679b62af]" name="quitBrowser" is-config="true" duration-ms="5215" started-at="2018-04-12T18:10:55Z" finished-at="2018-04-12T18:11:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="setUP()[pri:0, instance:com.Capita.AutomationDemo.testscripts.TestLoginThroughDataProvider@679b62af]" name="setUP" is-config="true" duration-ms="6510" started-at="2018-04-12T18:11:00Z" finished-at="2018-04-12T18:11:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.Capita.AutomationDemo.testscripts.TestLoginThroughDataProvider@679b62af]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-04-12T18:11:00Z" finished-at="2018-04-12T18:11:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Capita.AutomationDemo.testscripts.TestLoginThroughDataProvider.TestLoginWithDataProvider(java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.InterruptedException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TestLoginWithDataProvider(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Capita.AutomationDemo.testscripts.TestLoginThroughDataProvider@679b62af]" name="TestLoginWithDataProvider" duration-ms="9095" started-at="2018-04-12T18:11:07Z" data-provider="loginData" finished-at="2018-04-12T18:11:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC005]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[RobinCAP]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[79D209]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLoginWithDataProvider -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:com.Capita.AutomationDemo.testscripts.TestLoginThroughDataProvider@679b62af]" name="quitBrowser" is-config="true" duration-ms="3240" started-at="2018-04-12T18:11:16Z" finished-at="2018-04-12T18:11:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- com.Capita.AutomationDemo.testscripts.TestLoginThroughDataProvider -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
